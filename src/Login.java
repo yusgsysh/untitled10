@@ -14,7 +14,6 @@ public class Login extends JFrame {
         JTextField f = new JTextField(15);
         JButton g = new JButton("µÇÂ¼");
         JButton h = new JButton("×¢²á");
-
         add(a);
         add(e);
         add(b);
